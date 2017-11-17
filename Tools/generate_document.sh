@@ -38,7 +38,6 @@ Foreword.md \
 0x04g-Testing-Cryptography.md \
 0x04h-Testing-Code-Quality.md \
 0x07-Appendix.md \
-0x07d-Assessing-Anti-Reverse-Engineering-Schemes.md \
 0x08-Testing-Tools.md \
 0x09-Suggested-Reading.md \
 0x08-Testing-Tools.md \
